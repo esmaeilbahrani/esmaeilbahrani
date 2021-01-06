@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm esmaeil bahrani fard</h1>
-<h3 align="center">I'm a software engineer who loves Open Source. I spend most of the time building open source projects. I have +10 years of experience in building software for web and mobile. Currently, I work on Pinoox platform which is a free and open-source platform for developing web application.</h3>
+<h3 align="center">I'm a software engineer who loves Open Source. I spend most of the time exploring new technologies and developing software solutions. I have +10 years of experience in building software for web and mobile. Currently, I work on Pinoox platform which is a free and open-source platform for developing web application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmaeilbahrani&label=Profile%20views&color=0e75b6&style=flat" alt="esmaeilbahrani" /> </p>
 
